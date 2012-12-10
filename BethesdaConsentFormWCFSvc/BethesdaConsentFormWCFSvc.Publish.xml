@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\devsp1.atbapps.com\c$\inetpub\wwwroot\wss\VirtualDirectories\6139" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="ConsentFormSvc.svc" publishTime="11/27/2012 10:53:10" />
+    <file relUrl="bin/Microsoft.SharePoint.Search.dll" publishTime="02/08/2012 04:11:24" />
+    <file relUrl="bin/Microsoft.SharePoint.Security.dll" publishTime="03/26/2010 16:45:56" />
+    <file relUrl="Web.config" publishTime="12/07/2012 11:54:32" />
+    <file relUrl="bin/Microsoft.SharePoint.dll" publishTime="11/29/2011 16:52:46" />
+    <file relUrl="bin/Microsoft.Web.CommandUI.dll" publishTime="01/07/2011 10:38:06" />
+    <file relUrl="bin/BethesdaConsentFormWCFSvc.dll" publishTime="12/10/2012 07:33:50" />
+    <file relUrl="bin/BethesdaConsentFormWCFSvc.pdb" publishTime="12/10/2012 07:33:50" />
+  </publishProfile>
+</publishData>

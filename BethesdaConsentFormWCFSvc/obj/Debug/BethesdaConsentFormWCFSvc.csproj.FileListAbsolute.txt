@@ -1,0 +1,9 @@
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\BethesdaConsentFormWCFSvc.dll
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\BethesdaConsentFormWCFSvc.pdb
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\obj\Debug\BethesdaConsentFormWCFSvc.dll
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\obj\Debug\BethesdaConsentFormWCFSvc.pdb
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\Microsoft.SharePoint.dll
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\Microsoft.SharePoint.Search.dll
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\Microsoft.Web.CommandUI.dll
+C:\Software\Santhosh\BethesdaConsentFormWCFSvc\BethesdaConsentFormWCFSvc\bin\Microsoft.SharePoint.Security.dll
